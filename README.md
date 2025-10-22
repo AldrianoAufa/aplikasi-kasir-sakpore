@@ -1,7 +1,7 @@
 # aplikasi-kasir-sakpore
 
 Sistem **Point of Sale (POS)** ini merupakan aplikasi kasir digital berbasis database yang dirancang untuk membantu proses transaksi penjualan, pencatatan stok produk, dan pembuatan laporan keuangan secara otomatis.  
-Proyek ini dibuat menggunakan **PHP**, **MySQL**, dan **phpMyAdmin** sebagai manajemen database.
+Proyek ini dibuat menggunakan **java**, **neatbeans**, dan **phpMyAdmin** sebagai manajemen database.
 
 ---
 

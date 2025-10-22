@@ -36,3 +36,13 @@ Proyek ini dibuat menggunakan **java**, **neatbeans**, dan **phpMyAdmin** sebaga
 - Cetak struk langsung ke printer (contoh: EPSON L5190)
 - Laporan penjualan dapat dicetak melalui *Print Dialog*
 - <img width="1290" height="674" alt="image" src="https://github.com/user-attachments/assets/31f3c295-c90b-4372-b4a8-5b16dff1ebc6" />
+
+cara instalasi
+1. Clone repository atau salin file proyek ke folder
+   git clone https://github.com/AldrianoAufa/aplikasi-kasir-sakpore
+2. masukan connector mysql jika belum punya akses di folder mySQL database Version\src\Connector ada file connector-java.jar
+3. buat database dengan nama pos dan import file yang sudah saya cantumkan di folder utama
+   untuk passwordnya bisa dilihat di sini
+   
+   <img width="607" height="147" alt="image" src="https://github.com/user-attachments/assets/ec43d42e-b47d-4e87-8653-90a094007048" />
+5. jalankan aplikasi di neatbeans ataupun visual studio code
